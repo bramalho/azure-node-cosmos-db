@@ -1,6 +1,6 @@
 variable "prefix" {
   type    = string
-  default = "jiggle"
+  default = "node-cosmos-db"
 }
 
 variable "location" {
